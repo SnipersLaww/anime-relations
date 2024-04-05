@@ -1087,6 +1087,8 @@
 - 37430|41024|101280:37-48 -> 41487|43361|116742:1-12!
 # Tensei shitara Slime Datta Ken 2nd Season -> ~ Part 2
 - 39551|42196|108511:13-24 -> 41487|43361|116742:1-12!
+# Tensei shitara Slime Datta Ken -> ~ 3rd Season
+- 37430|41024|101280:49-72 -> 53580|46729|156822:1-24!
 
 # The iDOLM@STER -> ~: 765 Pro to Iu Monogatari
 - 10278|6111|10278:765 -> 11889|6627|11889:1
